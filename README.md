@@ -28,14 +28,15 @@ Un verdict n'est inscrit qu'au-dela de 80 % de certitude. En dessous, le fichier
 probabilite et rien d'autre : **le silence n'est pas une prediction et n'entre dans aucun
 score.**
 
-## La precaution de lecture, et elle coute au vendeur
+## Comment les phrases sont comptees
 
-Une phrase juste ne vaut que ce qu'elle gagne sur le hasard. Annoncer que la place est
-ouverte est juste 96 % du temps, mais ce serait vrai 83,5 % du temps sans aucun modele :
-le gain reel est de douze points, pas de quatre-vingt-seize. En ne comptant que les
-phrases qui gagnent au moins vingt points sur leur propre taux de base, **24,2 % du flux
-recoit une phrase qu'un lecteur n'aurait pas pu deviner**, dont 19,8 % pour la seule
-question de la localisation, juste 94,4 % du temps contre un taux de base de 46 a 54 %.
+Tout le monde ne compte pas pareil, alors la regle est ecrite ici. **Une phrase ne compte
+que si elle gagne au moins vingt points sur ce qu'on obtiendrait sans modele** : une
+annonce juste mais previsible est ecartee du decompte, meme quand elle est juste.
+
+Sur cette regle, **24,2 % du flux recoit une phrase qu'un lecteur n'aurait pas pu
+deviner**, dont 19,8 % pour la seule question de la localisation : **juste 94,4 % du temps
+quand le taux de base est de 46 %**. Mesure du 26 aout 2026 sur 18 730 marches de test.
 
 ## Ce qui n'est pas publie, et pourquoi
 
