@@ -7,7 +7,8 @@ reecrites.** Le commit git qui les depose fait l'horodatage : n'importe qui peut
 dans l'historique de ce depot, qu'une phrase a bien ete ecrite avant l'attribution
 qu'elle annonce.
 
-La page lisible : **https://marche.ducens.io**
+La page lisible : **https://sebastian-code-automation.github.io/registre-marches-publics/**
+(elle basculera sur `marche.ducens.io` des que l'enregistrement DNS sera pose)
 
 ## Ce que contient ce depot
 
