@@ -19,13 +19,18 @@ La page lisible : **https://marche.ducens.io**
 
 ## Les trois questions posees a chaque avis
 
-**Ou va le marche** : partira-t-il a une entreprise du departement de l'acheteur.
-**La place est-elle prise** : un fournisseur deja retenu par cet acheteur va-t-il regagner.
-**Combien de concurrents** : le marche recevra-t-il deux offres ou moins.
+Chacune recoit une phrase entiere, que l'avis d'attribution rendra vraie ou fausse.
 
-Un verdict n'est inscrit qu'au-dela de 80 % de certitude. En dessous, le fichier porte la
+| La question | La phrase ecrite | Comment on saura |
+|---|---|---|
+| Ou part l'argent | *ce marche ira a une entreprise du departement de l'acheteur*, ou *il ira ailleurs* | L'avis d'attribution donne le departement de l'entreprise retenue |
+| La place est-elle prise | *un fournisseur deja retenu par cet acheteur va regagner*, ou *la place est ouverte* | L'avis d'attribution donne le nom du gagnant, on regarde s'il figure deja dans l'historique de cet acheteur |
+| Combien de concurrents | *ce marche recevra deux offres ou moins*, ou *il en recevra plus* | L'avis d'attribution publie le nombre d'offres recues |
+
+Une phrase n'est ecrite qu'au-dela de 80 % de certitude. En dessous, le fichier porte la
 probabilite et rien d'autre : **le silence n'est pas une prediction et n'entre dans aucun
-score.**
+score.** La probabilite publiee sur la page est toujours celle de la phrase annoncee, pas
+celle de l'evenement contraire.
 
 ## Comment les phrases sont comptees
 
