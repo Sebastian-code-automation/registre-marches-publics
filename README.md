@@ -56,6 +56,20 @@ l'achat public, elle ne prouve aucun favoritisme et le critere qu'elle mesure n'
 critere legal d'attribution. Les comptages sont agreges par territoire et par famille
 d'achat, jamais rendus comme un jugement sur une collectivite nommee.
 
+## Ce que ce depot dit contre lui-meme
+
+Trois choses, ecrites ici parce qu'un bilan qu'on decouvre en 2027 ne vaut rien.
+
+- **Sept des treize premiers jours, du 18 au 24 aout 2026, ne portent pas le numero du modele
+  qui les a ecrits.** Le champ existait, il n'etait pas rempli. Ils ne sont pas reecrits : au
+  bilan ces sept jours seront comptes a part, et pas melanges aux autres.
+- **Trois modeles ont parle depuis le debut**, pas un seul. Le bilan comptera donc trois lots
+  separes, et non une moyenne unique qui n'aurait aucun sens.
+- **Les premiers jours ont ete ecrits plusieurs fois pendant la journee de construction du
+  24 aout**, avant que le protocole du non-reecrit prenne effet le soir meme. Aucun resultat
+  n'existait alors, donc la propriete qui compte, predire avant de savoir, tient pour eux
+  aussi. Mais il fallait le dire.
+
 ## Le calendrier
 
 Les premieres resolutions arrivent quand les avis d'attribution des marches de 2026
