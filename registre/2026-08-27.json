@@ -1,7 +1,6 @@
 {
  "date_prediction": "2026-08-27",
  "ecrit_le": "2026-08-27T15:56:14",
- "modele": "noyau v6 / melange 0.60 regression + 0.40 arbres",
  "modele_version": "v7-2026-08-23-220347",
  "corpus_arrete_au": "2026-08-23",
  "corpus_taille": 220347,
@@ -54,14 +53,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.622,
-    "marches_vus_acheteur": 215,
-    "taux_local_dep_metier": 0.805,
-    "marches_vus_dep_metier": 1357,
-    "taux_local_metier": 0.709,
-    "entreprises_locales_du_metier": 1015,
-    "entreprises_du_metier_en_tout": 1620,
-    "fournisseurs_deja_retenus_par_acheteur": 336,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 215
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -86,14 +78,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.693,
-    "marches_vus_acheteur": 45,
-    "taux_local_dep_metier": 0.821,
-    "marches_vus_dep_metier": 232,
-    "taux_local_metier": 0.792,
-    "entreprises_locales_du_metier": 411,
-    "entreprises_du_metier_en_tout": 707,
-    "fournisseurs_deja_retenus_par_acheteur": 208,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 45
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -118,14 +103,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.854,
-    "marches_vus_dep_metier": 198,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 293,
-    "entreprises_du_metier_en_tout": 425,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -150,14 +128,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.901,
-    "marches_vus_dep_metier": 161,
-    "taux_local_metier": 0.689,
-    "entreprises_locales_du_metier": 350,
-    "entreprises_du_metier_en_tout": 390,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -182,14 +153,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.522,
-    "marches_vus_acheteur": 3,
-    "taux_local_dep_metier": 0.881,
-    "marches_vus_dep_metier": 509,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 765,
-    "entreprises_du_metier_en_tout": 884,
-    "fournisseurs_deja_retenus_par_acheteur": 5,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 3
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -214,14 +178,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.781,
-    "marches_vus_acheteur": 16,
-    "taux_local_dep_metier": 0.925,
-    "marches_vus_dep_metier": 158,
-    "taux_local_metier": 0.466,
-    "entreprises_locales_du_metier": 198,
-    "entreprises_du_metier_en_tout": 218,
-    "fournisseurs_deja_retenus_par_acheteur": 26,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 16
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -246,14 +203,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.757,
-    "marches_vus_dep_metier": 205,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 213,
-    "entreprises_du_metier_en_tout": 367,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -278,14 +228,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.496,
-    "marches_vus_acheteur": 58,
-    "taux_local_dep_metier": 0.842,
-    "marches_vus_dep_metier": 284,
-    "taux_local_metier": 0.792,
-    "entreprises_locales_du_metier": 434,
-    "entreprises_du_metier_en_tout": 616,
-    "fournisseurs_deja_retenus_par_acheteur": 113,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 58
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -310,14 +253,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.915,
-    "marches_vus_dep_metier": 59,
-    "taux_local_metier": 0.466,
-    "entreprises_locales_du_metier": 65,
-    "entreprises_du_metier_en_tout": 71,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -342,14 +278,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.83,
-    "marches_vus_dep_metier": 714,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 968,
-    "entreprises_du_metier_en_tout": 1508,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -374,14 +303,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.758,
-    "marches_vus_dep_metier": 375,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 387,
-    "entreprises_du_metier_en_tout": 739,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -406,14 +328,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.47,
-    "marches_vus_acheteur": 17,
-    "taux_local_dep_metier": 0.757,
-    "marches_vus_dep_metier": 470,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 750,
-    "entreprises_du_metier_en_tout": 1277,
-    "fournisseurs_deja_retenus_par_acheteur": 44,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 17
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -438,14 +353,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.648,
-    "marches_vus_acheteur": 41,
-    "taux_local_dep_metier": 0.886,
-    "marches_vus_dep_metier": 33,
-    "taux_local_metier": 0.374,
-    "entreprises_locales_du_metier": 52,
-    "entreprises_du_metier_en_tout": 61,
-    "fournisseurs_deja_retenus_par_acheteur": 92,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 41
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -470,14 +378,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.622,
-    "marches_vus_acheteur": 141,
-    "taux_local_dep_metier": 0.657,
-    "marches_vus_dep_metier": 7,
-    "taux_local_metier": 0.702,
-    "entreprises_locales_du_metier": 5,
-    "entreprises_du_metier_en_tout": 10,
-    "fournisseurs_deja_retenus_par_acheteur": 226,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 141
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -502,14 +403,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.612,
-    "marches_vus_dep_metier": 38,
-    "taux_local_metier": 0.792,
-    "entreprises_locales_du_metier": 76,
-    "entreprises_du_metier_en_tout": 143,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -534,14 +428,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.511,
-    "marches_vus_acheteur": 13,
-    "taux_local_dep_metier": 0.777,
-    "marches_vus_dep_metier": 71,
-    "taux_local_metier": 0.709,
-    "entreprises_locales_du_metier": 110,
-    "entreprises_du_metier_en_tout": 192,
-    "fournisseurs_deja_retenus_par_acheteur": 35,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 13
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -566,14 +453,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.646,
-    "marches_vus_acheteur": 21,
-    "taux_local_dep_metier": 0.97,
-    "marches_vus_dep_metier": 263,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 376,
-    "entreprises_du_metier_en_tout": 398,
-    "fournisseurs_deja_retenus_par_acheteur": 27,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 21
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -598,14 +478,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.851,
-    "marches_vus_dep_metier": 1679,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 2002,
-    "entreprises_du_metier_en_tout": 2792,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -630,14 +503,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.651,
-    "marches_vus_dep_metier": 306,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 307,
-    "entreprises_du_metier_en_tout": 589,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -662,14 +528,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.548,
-    "marches_vus_acheteur": 39,
-    "taux_local_dep_metier": 0.775,
-    "marches_vus_dep_metier": 347,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 511,
-    "entreprises_du_metier_en_tout": 825,
-    "fournisseurs_deja_retenus_par_acheteur": 50,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 39
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -694,14 +553,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.474,
-    "marches_vus_acheteur": 2,
-    "taux_local_dep_metier": 0.614,
-    "marches_vus_dep_metier": 130,
-    "taux_local_metier": 0.485,
-    "entreprises_locales_du_metier": 84,
-    "entreprises_du_metier_en_tout": 152,
-    "fournisseurs_deja_retenus_par_acheteur": 2,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 2
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -726,14 +578,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.822,
-    "marches_vus_dep_metier": 4,
-    "taux_local_metier": 0.485,
-    "entreprises_locales_du_metier": 3,
-    "entreprises_du_metier_en_tout": 4,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -758,14 +603,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.577,
-    "marches_vus_acheteur": 47,
-    "taux_local_dep_metier": 0.793,
-    "marches_vus_dep_metier": 487,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 457,
-    "entreprises_du_metier_en_tout": 798,
-    "fournisseurs_deja_retenus_par_acheteur": 90,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 47
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -790,14 +628,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.681,
-    "marches_vus_acheteur": 21,
-    "taux_local_dep_metier": 0.881,
-    "marches_vus_dep_metier": 509,
-    "taux_local_metier": 0.629,
-    "entreprises_locales_du_metier": 765,
-    "entreprises_du_metier_en_tout": 884,
-    "fournisseurs_deja_retenus_par_acheteur": 35,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 21
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -822,14 +653,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.574,
-    "marches_vus_acheteur": 2,
-    "taux_local_dep_metier": 0.82,
-    "marches_vus_dep_metier": 1264,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 1552,
-    "entreprises_du_metier_en_tout": 2451,
-    "fournisseurs_deja_retenus_par_acheteur": 13,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 2
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -854,14 +678,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.527,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.922,
-    "marches_vus_dep_metier": 45,
-    "taux_local_metier": 0.397,
-    "entreprises_locales_du_metier": 54,
-    "entreprises_du_metier_en_tout": 64,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -886,14 +703,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.542,
-    "marches_vus_acheteur": 106,
-    "taux_local_dep_metier": 0.805,
-    "marches_vus_dep_metier": 1357,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 1015,
-    "entreprises_du_metier_en_tout": 1620,
-    "fournisseurs_deja_retenus_par_acheteur": 169,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 106
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -918,14 +728,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.646,
-    "marches_vus_acheteur": 21,
-    "taux_local_dep_metier": 0.97,
-    "marches_vus_dep_metier": 263,
-    "taux_local_metier": 0.709,
-    "entreprises_locales_du_metier": 376,
-    "entreprises_du_metier_en_tout": 398,
-    "fournisseurs_deja_retenus_par_acheteur": 27,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 21
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -950,14 +753,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.784,
-    "marches_vus_dep_metier": 119,
-    "taux_local_metier": 0.583,
-    "entreprises_locales_du_metier": 106,
-    "entreprises_du_metier_en_tout": 197,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -982,14 +778,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.474,
-    "marches_vus_acheteur": 2,
-    "taux_local_dep_metier": 0.752,
-    "marches_vus_dep_metier": 377,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 331,
-    "entreprises_du_metier_en_tout": 449,
-    "fournisseurs_deja_retenus_par_acheteur": 3,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 2
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1014,14 +803,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.487,
-    "marches_vus_acheteur": 12,
-    "taux_local_dep_metier": 0.516,
-    "marches_vus_dep_metier": 14,
-    "taux_local_metier": 0.669,
-    "entreprises_locales_du_metier": 15,
-    "entreprises_du_metier_en_tout": 23,
-    "fournisseurs_deja_retenus_par_acheteur": 16,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 12
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1046,14 +828,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.633,
-    "marches_vus_acheteur": 69,
-    "taux_local_dep_metier": 0.815,
-    "marches_vus_dep_metier": 833,
-    "taux_local_metier": 0.709,
-    "entreprises_locales_du_metier": 781,
-    "entreprises_du_metier_en_tout": 1330,
-    "fournisseurs_deja_retenus_par_acheteur": 104,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 69
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1078,14 +853,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.633,
-    "marches_vus_acheteur": 69,
-    "taux_local_dep_metier": 0.815,
-    "marches_vus_dep_metier": 833,
-    "taux_local_metier": 0.709,
-    "entreprises_locales_du_metier": 781,
-    "entreprises_du_metier_en_tout": 1330,
-    "fournisseurs_deja_retenus_par_acheteur": 104,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 69
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1110,14 +878,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.786,
-    "marches_vus_dep_metier": 409,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 342,
-    "entreprises_du_metier_en_tout": 631,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1142,14 +903,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.474,
-    "marches_vus_acheteur": 59,
-    "taux_local_dep_metier": 0.683,
-    "marches_vus_dep_metier": 356,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 457,
-    "entreprises_du_metier_en_tout": 808,
-    "fournisseurs_deja_retenus_par_acheteur": 115,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 59
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1174,14 +928,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.784,
-    "marches_vus_acheteur": 21,
-    "taux_local_dep_metier": 0.638,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 50,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 21
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1206,14 +953,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.443,
-    "marches_vus_acheteur": 23,
-    "taux_local_dep_metier": 0.709,
-    "marches_vus_dep_metier": 68,
-    "taux_local_metier": 0.629,
-    "entreprises_locales_du_metier": 137,
-    "entreprises_du_metier_en_tout": 276,
-    "fournisseurs_deja_retenus_par_acheteur": 45,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 23
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1238,14 +978,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.761,
-    "marches_vus_acheteur": 14,
-    "taux_local_dep_metier": 0.752,
-    "marches_vus_dep_metier": 377,
-    "taux_local_metier": 0.403,
-    "entreprises_locales_du_metier": 331,
-    "entreprises_du_metier_en_tout": 449,
-    "fournisseurs_deja_retenus_par_acheteur": 34,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 14
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1270,14 +1003,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.572,
-    "marches_vus_acheteur": 292,
-    "taux_local_dep_metier": 0.638,
-    "marches_vus_dep_metier": 6,
-    "taux_local_metier": 0.422,
-    "entreprises_locales_du_metier": 5,
-    "entreprises_du_metier_en_tout": 8,
-    "fournisseurs_deja_retenus_par_acheteur": 516,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 292
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1302,14 +1028,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.527,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.819,
-    "marches_vus_dep_metier": 209,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 438,
-    "entreprises_du_metier_en_tout": 701,
-    "fournisseurs_deja_retenus_par_acheteur": 6,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1334,14 +1053,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.702,
-    "marches_vus_acheteur": 13,
-    "taux_local_dep_metier": 0.582,
-    "marches_vus_dep_metier": 1066,
-    "taux_local_metier": 0.443,
-    "entreprises_locales_du_metier": 574,
-    "entreprises_du_metier_en_tout": 1165,
-    "fournisseurs_deja_retenus_par_acheteur": 45,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 13
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1366,14 +1078,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.587,
-    "marches_vus_acheteur": 549,
-    "taux_local_dep_metier": 0.49,
-    "marches_vus_dep_metier": 746,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 281,
-    "entreprises_du_metier_en_tout": 672,
-    "fournisseurs_deja_retenus_par_acheteur": 649,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 549
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1398,14 +1103,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.574,
-    "marches_vus_acheteur": 2,
-    "taux_local_dep_metier": 0.808,
-    "marches_vus_dep_metier": 480,
-    "taux_local_metier": 0.709,
-    "entreprises_locales_du_metier": 559,
-    "entreprises_du_metier_en_tout": 934,
-    "fournisseurs_deja_retenus_par_acheteur": 4,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 2
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1430,14 +1128,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.431,
-    "marches_vus_acheteur": 3,
-    "taux_local_dep_metier": 0.814,
-    "marches_vus_dep_metier": 121,
-    "taux_local_metier": 0.75,
-    "entreprises_locales_du_metier": 82,
-    "entreprises_du_metier_en_tout": 121,
-    "fournisseurs_deja_retenus_par_acheteur": 3,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 3
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1462,14 +1153,7 @@
    "verdict": "LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.784,
-    "marches_vus_dep_metier": 119,
-    "taux_local_metier": 0.696,
-    "entreprises_locales_du_metier": 106,
-    "entreprises_du_metier_en_tout": 197,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1494,14 +1178,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.45,
-    "marches_vus_acheteur": 67,
-    "taux_local_dep_metier": 0.323,
-    "marches_vus_dep_metier": 94,
-    "taux_local_metier": 0.513,
-    "entreprises_locales_du_metier": 44,
-    "entreprises_du_metier_en_tout": 152,
-    "fournisseurs_deja_retenus_par_acheteur": 129,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 67
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1526,14 +1203,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.688,
-    "marches_vus_acheteur": 217,
-    "taux_local_dep_metier": 0.508,
-    "marches_vus_dep_metier": 114,
-    "taux_local_metier": 0.457,
-    "entreprises_locales_du_metier": 56,
-    "entreprises_du_metier_en_tout": 163,
-    "fournisseurs_deja_retenus_par_acheteur": 234,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 217
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1558,14 +1228,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.583,
-    "marches_vus_acheteur": 7,
-    "taux_local_dep_metier": 0.489,
-    "marches_vus_dep_metier": 15,
-    "taux_local_metier": 0.653,
-    "entreprises_locales_du_metier": 13,
-    "entreprises_du_metier_en_tout": 22,
-    "fournisseurs_deja_retenus_par_acheteur": 20,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 7
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1590,14 +1253,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.383,
-    "marches_vus_acheteur": 7,
-    "taux_local_dep_metier": 0.563,
-    "marches_vus_dep_metier": 159,
-    "taux_local_metier": 0.466,
-    "entreprises_locales_du_metier": 101,
-    "entreprises_du_metier_en_tout": 193,
-    "fournisseurs_deja_retenus_par_acheteur": 21,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 7
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1622,14 +1278,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.628,
-    "marches_vus_dep_metier": 205,
-    "taux_local_metier": 0.607,
-    "entreprises_locales_du_metier": 138,
-    "entreprises_du_metier_en_tout": 292,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1654,14 +1303,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.912,
-    "marches_vus_dep_metier": 22,
-    "taux_local_metier": 0.607,
-    "entreprises_locales_du_metier": 29,
-    "entreprises_du_metier_en_tout": 29,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1686,14 +1328,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.801,
-    "marches_vus_dep_metier": 544,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 737,
-    "entreprises_du_metier_en_tout": 1363,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1718,14 +1353,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.612,
-    "marches_vus_dep_metier": 38,
-    "taux_local_metier": 0.792,
-    "entreprises_locales_du_metier": 76,
-    "entreprises_du_metier_en_tout": 143,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1750,14 +1378,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.609,
-    "marches_vus_acheteur": 8,
-    "taux_local_dep_metier": 0.661,
-    "marches_vus_dep_metier": 172,
-    "taux_local_metier": 0.569,
-    "entreprises_locales_du_metier": 101,
-    "entreprises_du_metier_en_tout": 166,
-    "fournisseurs_deja_retenus_par_acheteur": 16,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 8
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1782,14 +1403,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.437,
-    "marches_vus_acheteur": 12,
-    "taux_local_dep_metier": 0.786,
-    "marches_vus_dep_metier": 409,
-    "taux_local_metier": 0.689,
-    "entreprises_locales_du_metier": 342,
-    "entreprises_du_metier_en_tout": 631,
-    "fournisseurs_deja_retenus_par_acheteur": 13,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 12
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1814,14 +1428,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.463,
-    "marches_vus_acheteur": 26,
-    "taux_local_dep_metier": 0.793,
-    "marches_vus_dep_metier": 487,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 457,
-    "entreprises_du_metier_en_tout": 798,
-    "fournisseurs_deja_retenus_par_acheteur": 60,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 26
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1846,14 +1453,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.704,
-    "marches_vus_dep_metier": 248,
-    "taux_local_metier": 0.709,
-    "entreprises_locales_du_metier": 284,
-    "entreprises_du_metier_en_tout": 558,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1878,14 +1478,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.442,
-    "marches_vus_acheteur": 5,
-    "taux_local_dep_metier": 0.766,
-    "marches_vus_dep_metier": 86,
-    "taux_local_metier": 0.669,
-    "entreprises_locales_du_metier": 46,
-    "entreprises_du_metier_en_tout": 103,
-    "fournisseurs_deja_retenus_par_acheteur": 6,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 5
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1910,14 +1503,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.655,
-    "marches_vus_acheteur": 460,
-    "taux_local_dep_metier": 0.572,
-    "marches_vus_dep_metier": 105,
-    "taux_local_metier": 0.495,
-    "entreprises_locales_du_metier": 42,
-    "entreprises_du_metier_en_tout": 138,
-    "fournisseurs_deja_retenus_par_acheteur": 891,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 460
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1942,14 +1528,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.748,
-    "marches_vus_dep_metier": 176,
-    "taux_local_metier": 0.709,
-    "entreprises_locales_du_metier": 341,
-    "entreprises_du_metier_en_tout": 581,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -1974,14 +1553,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.633,
-    "marches_vus_acheteur": 69,
-    "taux_local_dep_metier": 0.815,
-    "marches_vus_dep_metier": 833,
-    "taux_local_metier": 0.689,
-    "entreprises_locales_du_metier": 781,
-    "entreprises_du_metier_en_tout": 1330,
-    "fournisseurs_deja_retenus_par_acheteur": 104,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 69
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2006,14 +1578,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.562,
-    "marches_vus_acheteur": 4,
-    "taux_local_dep_metier": 0.56,
-    "marches_vus_dep_metier": 13,
-    "taux_local_metier": 0.573,
-    "entreprises_locales_du_metier": 15,
-    "entreprises_du_metier_en_tout": 38,
-    "fournisseurs_deja_retenus_par_acheteur": 6,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 4
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2038,14 +1603,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.416,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.66,
-    "marches_vus_dep_metier": 153,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 241,
-    "entreprises_du_metier_en_tout": 448,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2070,14 +1628,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.501,
-    "marches_vus_acheteur": 169,
-    "taux_local_dep_metier": 0.649,
-    "marches_vus_dep_metier": 277,
-    "taux_local_metier": 0.488,
-    "entreprises_locales_du_metier": 185,
-    "entreprises_du_metier_en_tout": 436,
-    "fournisseurs_deja_retenus_par_acheteur": 273,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 169
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2102,14 +1653,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.304,
-    "marches_vus_acheteur": 57,
-    "taux_local_dep_metier": 0.477,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 60,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 57
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2134,14 +1678,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.557,
-    "marches_vus_acheteur": 31,
-    "taux_local_dep_metier": 0.745,
-    "marches_vus_dep_metier": 244,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 374,
-    "entreprises_du_metier_en_tout": 614,
-    "fournisseurs_deja_retenus_par_acheteur": 95,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 31
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2166,14 +1703,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.647,
-    "marches_vus_acheteur": 75,
-    "taux_local_dep_metier": 0.728,
-    "marches_vus_dep_metier": 82,
-    "taux_local_metier": 0.75,
-    "entreprises_locales_du_metier": 69,
-    "entreprises_du_metier_en_tout": 141,
-    "fournisseurs_deja_retenus_par_acheteur": 177,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 75
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2198,14 +1728,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.63,
-    "marches_vus_dep_metier": 365,
-    "taux_local_metier": 0.443,
-    "entreprises_locales_du_metier": 244,
-    "entreprises_du_metier_en_tout": 459,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2230,14 +1753,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.519,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2262,14 +1778,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.543,
-    "marches_vus_acheteur": 610,
-    "taux_local_dep_metier": 0.595,
-    "marches_vus_dep_metier": 38,
-    "taux_local_metier": 0.554,
-    "entreprises_locales_du_metier": 32,
-    "entreprises_du_metier_en_tout": 84,
-    "fournisseurs_deja_retenus_par_acheteur": 790,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 610
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2294,14 +1803,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.326,
-    "marches_vus_acheteur": 206,
-    "taux_local_dep_metier": 0.178,
-    "marches_vus_dep_metier": 363,
-    "taux_local_metier": 0.513,
-    "entreprises_locales_du_metier": 60,
-    "entreprises_du_metier_en_tout": 525,
-    "fournisseurs_deja_retenus_par_acheteur": 349,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 206
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2326,14 +1828,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.545,
-    "marches_vus_dep_metier": 479,
-    "taux_local_metier": 0.554,
-    "entreprises_locales_du_metier": 353,
-    "entreprises_du_metier_en_tout": 1287,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2358,14 +1853,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.705,
-    "marches_vus_dep_metier": 75,
-    "taux_local_metier": 0.567,
-    "entreprises_locales_du_metier": 79,
-    "entreprises_du_metier_en_tout": 159,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2390,14 +1878,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.482,
-    "marches_vus_dep_metier": 77,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 18,
-    "entreprises_du_metier_en_tout": 111,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2422,14 +1903,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.607,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2454,14 +1928,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.728,
-    "marches_vus_dep_metier": 168,
-    "taux_local_metier": 0.458,
-    "entreprises_locales_du_metier": 121,
-    "entreprises_du_metier_en_tout": 187,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2486,14 +1953,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.72,
-    "marches_vus_acheteur": 264,
-    "taux_local_dep_metier": 0.605,
-    "marches_vus_dep_metier": 117,
-    "taux_local_metier": 0.399,
-    "entreprises_locales_du_metier": 65,
-    "entreprises_du_metier_en_tout": 129,
-    "fournisseurs_deja_retenus_par_acheteur": 442,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 264
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2518,14 +1978,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.491,
-    "marches_vus_dep_metier": 2399,
-    "taux_local_metier": 0.329,
-    "entreprises_locales_du_metier": 1406,
-    "entreprises_du_metier_en_tout": 3182,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2550,14 +2003,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.703,
-    "marches_vus_acheteur": 232,
-    "taux_local_dep_metier": 0.672,
-    "marches_vus_dep_metier": 196,
-    "taux_local_metier": 0.627,
-    "entreprises_locales_du_metier": 183,
-    "entreprises_du_metier_en_tout": 314,
-    "fournisseurs_deja_retenus_par_acheteur": 326,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 232
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2582,14 +2028,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.768,
-    "marches_vus_dep_metier": 601,
-    "taux_local_metier": 0.689,
-    "entreprises_locales_du_metier": 463,
-    "entreprises_du_metier_en_tout": 1003,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2614,14 +2053,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.63,
-    "marches_vus_dep_metier": 365,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 244,
-    "entreprises_du_metier_en_tout": 459,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2646,14 +2078,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.616,
-    "marches_vus_acheteur": 37,
-    "taux_local_dep_metier": 0.494,
-    "marches_vus_dep_metier": 224,
-    "taux_local_metier": 0.513,
-    "entreprises_locales_du_metier": 134,
-    "entreprises_du_metier_en_tout": 347,
-    "fournisseurs_deja_retenus_par_acheteur": 62,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 37
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2678,14 +2103,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.501,
-    "marches_vus_acheteur": 169,
-    "taux_local_dep_metier": 0.638,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 273,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 169
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2710,14 +2128,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.527,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.46,
-    "marches_vus_dep_metier": 512,
-    "taux_local_metier": 0.709,
-    "entreprises_locales_du_metier": 298,
-    "entreprises_du_metier_en_tout": 1013,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2742,14 +2153,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.32,
-    "marches_vus_dep_metier": 158,
-    "taux_local_metier": 0.403,
-    "entreprises_locales_du_metier": 52,
-    "entreprises_du_metier_en_tout": 205,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2774,14 +2178,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.548,
-    "marches_vus_acheteur": 39,
-    "taux_local_dep_metier": 0.499,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 50,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 39
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2806,14 +2203,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.454,
-    "marches_vus_dep_metier": 198,
-    "taux_local_metier": 0.445,
-    "entreprises_locales_du_metier": 53,
-    "entreprises_du_metier_en_tout": 219,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2838,14 +2228,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.647,
-    "marches_vus_acheteur": 92,
-    "taux_local_dep_metier": 0.626,
-    "marches_vus_dep_metier": 531,
-    "taux_local_metier": 0.403,
-    "entreprises_locales_du_metier": 342,
-    "entreprises_du_metier_en_tout": 643,
-    "fournisseurs_deja_retenus_par_acheteur": 263,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 92
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2870,14 +2253,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.546,
-    "marches_vus_acheteur": 8,
-    "taux_local_dep_metier": 0.645,
-    "marches_vus_dep_metier": 77,
-    "taux_local_metier": 0.415,
-    "entreprises_locales_du_metier": 37,
-    "entreprises_du_metier_en_tout": 88,
-    "fournisseurs_deja_retenus_par_acheteur": 11,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 8
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2902,14 +2278,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.467,
-    "marches_vus_dep_metier": 158,
-    "taux_local_metier": 0.607,
-    "entreprises_locales_du_metier": 63,
-    "entreprises_du_metier_en_tout": 151,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2934,14 +2303,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.608,
-    "marches_vus_dep_metier": 9,
-    "taux_local_metier": 0.525,
-    "entreprises_locales_du_metier": 4,
-    "entreprises_du_metier_en_tout": 10,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2966,14 +2328,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.472,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -2998,14 +2353,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.595,
-    "marches_vus_acheteur": 5,
-    "taux_local_dep_metier": 0.292,
-    "marches_vus_dep_metier": 59,
-    "taux_local_metier": 0.403,
-    "entreprises_locales_du_metier": 14,
-    "entreprises_du_metier_en_tout": 65,
-    "fournisseurs_deja_retenus_par_acheteur": 28,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 5
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3030,14 +2378,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.178,
-    "marches_vus_dep_metier": 363,
-    "taux_local_metier": 0.513,
-    "entreprises_locales_du_metier": 60,
-    "entreprises_du_metier_en_tout": 525,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3062,14 +2403,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.553,
-    "marches_vus_acheteur": 6,
-    "taux_local_dep_metier": 0.459,
-    "marches_vus_dep_metier": 108,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 48,
-    "entreprises_du_metier_en_tout": 160,
-    "fournisseurs_deja_retenus_par_acheteur": 12,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 6
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3094,14 +2428,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.7,
-    "marches_vus_acheteur": 864,
-    "taux_local_dep_metier": 0.607,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 1359,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 864
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3126,14 +2453,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.407,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3158,14 +2478,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.654,
-    "marches_vus_dep_metier": 506,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 398,
-    "entreprises_du_metier_en_tout": 1023,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3190,14 +2503,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.474,
-    "marches_vus_acheteur": 59,
-    "taux_local_dep_metier": 0.766,
-    "marches_vus_dep_metier": 49,
-    "taux_local_metier": 0.75,
-    "entreprises_locales_du_metier": 54,
-    "entreprises_du_metier_en_tout": 92,
-    "fournisseurs_deja_retenus_par_acheteur": 115,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 59
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3222,14 +2528,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.527,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.292,
-    "marches_vus_dep_metier": 147,
-    "taux_local_metier": 0.443,
-    "entreprises_locales_du_metier": 45,
-    "entreprises_du_metier_en_tout": 199,
-    "fournisseurs_deja_retenus_par_acheteur": 2,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3254,14 +2553,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.302,
-    "marches_vus_acheteur": 11,
-    "taux_local_dep_metier": 0.815,
-    "marches_vus_dep_metier": 833,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 781,
-    "entreprises_du_metier_en_tout": 1330,
-    "fournisseurs_deja_retenus_par_acheteur": 10,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 11
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3286,14 +2578,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.514,
-    "marches_vus_acheteur": 9,
-    "taux_local_dep_metier": 0.394,
-    "marches_vus_dep_metier": 3,
-    "taux_local_metier": 0.356,
-    "entreprises_locales_du_metier": 1,
-    "entreprises_du_metier_en_tout": 6,
-    "fournisseurs_deja_retenus_par_acheteur": 16,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 9
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3318,14 +2603,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.519,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3350,14 +2628,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.646,
-    "marches_vus_acheteur": 52,
-    "taux_local_dep_metier": 0.462,
-    "marches_vus_dep_metier": 24,
-    "taux_local_metier": 0.554,
-    "entreprises_locales_du_metier": 8,
-    "entreprises_du_metier_en_tout": 38,
-    "fournisseurs_deja_retenus_par_acheteur": 85,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 52
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3382,14 +2653,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.517,
-    "marches_vus_acheteur": 67,
-    "taux_local_dep_metier": 0.676,
-    "marches_vus_dep_metier": 11,
-    "taux_local_metier": 0.47,
-    "entreprises_locales_du_metier": 8,
-    "entreprises_du_metier_en_tout": 17,
-    "fournisseurs_deja_retenus_par_acheteur": 72,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 67
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3414,14 +2678,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.418,
-    "marches_vus_acheteur": 135,
-    "taux_local_dep_metier": 0.441,
-    "marches_vus_dep_metier": 7,
-    "taux_local_metier": 0.554,
-    "entreprises_locales_du_metier": 4,
-    "entreprises_du_metier_en_tout": 12,
-    "fournisseurs_deja_retenus_par_acheteur": 205,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 135
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3446,14 +2703,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.514,
-    "marches_vus_acheteur": 9,
-    "taux_local_dep_metier": 0.472,
-    "marches_vus_dep_metier": 3,
-    "taux_local_metier": 0.4,
-    "entreprises_locales_du_metier": 4,
-    "entreprises_du_metier_en_tout": 7,
-    "fournisseurs_deja_retenus_par_acheteur": 13,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 9
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3478,14 +2728,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.553,
-    "marches_vus_acheteur": 6,
-    "taux_local_dep_metier": 0.683,
-    "marches_vus_dep_metier": 356,
-    "taux_local_metier": 0.629,
-    "entreprises_locales_du_metier": 457,
-    "entreprises_du_metier_en_tout": 808,
-    "fournisseurs_deja_retenus_par_acheteur": 12,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 6
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3510,14 +2753,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.374,
-    "marches_vus_acheteur": 2,
-    "taux_local_dep_metier": 0.497,
-    "marches_vus_dep_metier": 14,
-    "taux_local_metier": 0.554,
-    "entreprises_locales_du_metier": 7,
-    "entreprises_du_metier_en_tout": 29,
-    "fournisseurs_deja_retenus_par_acheteur": 3,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 2
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3542,14 +2778,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.241,
-    "marches_vus_acheteur": 74,
-    "taux_local_dep_metier": 0.259,
-    "marches_vus_dep_metier": 666,
-    "taux_local_metier": 0.419,
-    "entreprises_locales_du_metier": 134,
-    "entreprises_du_metier_en_tout": 756,
-    "fournisseurs_deja_retenus_par_acheteur": 124,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 74
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3574,14 +2803,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.265,
-    "marches_vus_dep_metier": 72,
-    "taux_local_metier": 0.443,
-    "entreprises_locales_du_metier": 20,
-    "entreprises_du_metier_en_tout": 87,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3606,14 +2828,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.502,
-    "marches_vus_acheteur": 306,
-    "taux_local_dep_metier": 0.719,
-    "marches_vus_dep_metier": 246,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 323,
-    "entreprises_du_metier_en_tout": 591,
-    "fournisseurs_deja_retenus_par_acheteur": 393,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 306
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3638,14 +2853,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.279,
-    "marches_vus_acheteur": 9,
-    "taux_local_dep_metier": 0.32,
-    "marches_vus_dep_metier": 158,
-    "taux_local_metier": 0.419,
-    "entreprises_locales_du_metier": 52,
-    "entreprises_du_metier_en_tout": 205,
-    "fournisseurs_deja_retenus_par_acheteur": 13,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 9
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3670,14 +2878,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.72,
-    "marches_vus_acheteur": 264,
-    "taux_local_dep_metier": 0.288,
-    "marches_vus_dep_metier": 258,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 47,
-    "entreprises_du_metier_en_tout": 267,
-    "fournisseurs_deja_retenus_par_acheteur": 442,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 264
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3702,14 +2903,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.328,
-    "marches_vus_dep_metier": 150,
-    "taux_local_metier": 0.403,
-    "entreprises_locales_du_metier": 61,
-    "entreprises_du_metier_en_tout": 219,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3734,14 +2928,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.302,
-    "marches_vus_acheteur": 11,
-    "taux_local_dep_metier": 0.491,
-    "marches_vus_dep_metier": 2399,
-    "taux_local_metier": 0.329,
-    "entreprises_locales_du_metier": 1406,
-    "entreprises_du_metier_en_tout": 3182,
-    "fournisseurs_deja_retenus_par_acheteur": 11,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 11
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3766,14 +2953,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.337,
-    "marches_vus_acheteur": 12,
-    "taux_local_dep_metier": 0.346,
-    "marches_vus_dep_metier": 85,
-    "taux_local_metier": 0.569,
-    "entreprises_locales_du_metier": 35,
-    "entreprises_du_metier_en_tout": 78,
-    "fournisseurs_deja_retenus_par_acheteur": 14,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 12
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3798,14 +2978,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.662,
-    "marches_vus_dep_metier": 149,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 171,
-    "entreprises_du_metier_en_tout": 310,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3830,14 +3003,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.404,
-    "marches_vus_acheteur": 31,
-    "taux_local_dep_metier": 0.348,
-    "marches_vus_dep_metier": 905,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 248,
-    "entreprises_du_metier_en_tout": 1559,
-    "fournisseurs_deja_retenus_par_acheteur": 73,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 31
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3862,14 +3028,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.237,
-    "marches_vus_acheteur": 12,
-    "taux_local_dep_metier": 0.404,
-    "marches_vus_dep_metier": 271,
-    "taux_local_metier": 0.607,
-    "entreprises_locales_du_metier": 77,
-    "entreprises_du_metier_en_tout": 253,
-    "fournisseurs_deja_retenus_par_acheteur": 18,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 12
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3894,14 +3053,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.331,
-    "marches_vus_acheteur": 127,
-    "taux_local_dep_metier": 0.459,
-    "marches_vus_dep_metier": 695,
-    "taux_local_metier": 0.629,
-    "entreprises_locales_du_metier": 304,
-    "entreprises_du_metier_en_tout": 1229,
-    "fournisseurs_deja_retenus_par_acheteur": 186,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 127
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3926,14 +3078,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.573,
-    "marches_vus_acheteur": 16,
-    "taux_local_dep_metier": 0.481,
-    "marches_vus_dep_metier": 89,
-    "taux_local_metier": 0.348,
-    "entreprises_locales_du_metier": 28,
-    "entreprises_du_metier_en_tout": 65,
-    "fournisseurs_deja_retenus_par_acheteur": 24,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 16
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3958,14 +3103,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.377,
-    "marches_vus_dep_metier": 63,
-    "taux_local_metier": 0.513,
-    "entreprises_locales_du_metier": 37,
-    "entreprises_du_metier_en_tout": 104,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -3990,14 +3128,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.331,
-    "marches_vus_acheteur": 127,
-    "taux_local_dep_metier": 0.459,
-    "marches_vus_dep_metier": 695,
-    "taux_local_metier": 0.629,
-    "entreprises_locales_du_metier": 304,
-    "entreprises_du_metier_en_tout": 1229,
-    "fournisseurs_deja_retenus_par_acheteur": 186,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 127
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4022,14 +3153,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.416,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.439,
-    "marches_vus_dep_metier": 112,
-    "taux_local_metier": 0.513,
-    "entreprises_locales_du_metier": 62,
-    "entreprises_du_metier_en_tout": 223,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4054,14 +3178,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.471,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4086,14 +3203,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.442,
-    "marches_vus_acheteur": 5,
-    "taux_local_dep_metier": 0.531,
-    "marches_vus_dep_metier": 186,
-    "taux_local_metier": 0.374,
-    "entreprises_locales_du_metier": 53,
-    "entreprises_du_metier_en_tout": 211,
-    "fournisseurs_deja_retenus_par_acheteur": 6,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 5
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4118,14 +3228,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.502,
-    "marches_vus_acheteur": 306,
-    "taux_local_dep_metier": 0.429,
-    "marches_vus_dep_metier": 82,
-    "taux_local_metier": 0.276,
-    "entreprises_locales_du_metier": 45,
-    "entreprises_du_metier_en_tout": 128,
-    "fournisseurs_deja_retenus_par_acheteur": 393,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 306
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4150,14 +3253,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.431,
-    "marches_vus_acheteur": 3,
-    "taux_local_dep_metier": 0.625,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 4,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 3
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4182,14 +3278,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.564,
-    "marches_vus_acheteur": 128,
-    "taux_local_dep_metier": 0.488,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 298,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 128
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4214,14 +3303,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.43,
-    "marches_vus_acheteur": 238,
-    "taux_local_dep_metier": 0.52,
-    "marches_vus_dep_metier": 454,
-    "taux_local_metier": 0.586,
-    "entreprises_locales_du_metier": 215,
-    "entreprises_du_metier_en_tout": 408,
-    "fournisseurs_deja_retenus_par_acheteur": 379,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 238
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4246,14 +3328,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.442,
-    "marches_vus_acheteur": 5,
-    "taux_local_dep_metier": 0.588,
-    "marches_vus_dep_metier": 67,
-    "taux_local_metier": 0.525,
-    "entreprises_locales_du_metier": 74,
-    "entreprises_du_metier_en_tout": 127,
-    "fournisseurs_deja_retenus_par_acheteur": 5,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 5
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4278,14 +3353,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.472,
-    "marches_vus_acheteur": 271,
-    "taux_local_dep_metier": 0.511,
-    "marches_vus_dep_metier": 169,
-    "taux_local_metier": 0.185,
-    "entreprises_locales_du_metier": 91,
-    "entreprises_du_metier_en_tout": 207,
-    "fournisseurs_deja_retenus_par_acheteur": 346,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 271
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4310,14 +3378,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.391,
-    "marches_vus_dep_metier": 1348,
-    "taux_local_metier": 0.443,
-    "entreprises_locales_du_metier": 597,
-    "entreprises_du_metier_en_tout": 1766,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4342,14 +3403,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.416,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.489,
-    "marches_vus_dep_metier": 7,
-    "taux_local_metier": 0.424,
-    "entreprises_locales_du_metier": 5,
-    "entreprises_du_metier_en_tout": 10,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4374,14 +3428,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.527,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.331,
-    "marches_vus_dep_metier": 190,
-    "taux_local_metier": 0.341,
-    "entreprises_locales_du_metier": 68,
-    "entreprises_du_metier_en_tout": 225,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4406,14 +3453,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.101,
-    "marches_vus_dep_metier": 901,
-    "taux_local_metier": 0.425,
-    "entreprises_locales_du_metier": 81,
-    "entreprises_du_metier_en_tout": 903,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4438,14 +3478,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.474,
-    "marches_vus_acheteur": 2,
-    "taux_local_dep_metier": 0.602,
-    "marches_vus_dep_metier": 741,
-    "taux_local_metier": 0.689,
-    "entreprises_locales_du_metier": 452,
-    "entreprises_du_metier_en_tout": 1361,
-    "fournisseurs_deja_retenus_par_acheteur": 2,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 2
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4470,14 +3503,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.425,
-    "marches_vus_acheteur": 29,
-    "taux_local_dep_metier": 0.512,
-    "marches_vus_dep_metier": 48,
-    "taux_local_metier": 0.466,
-    "entreprises_locales_du_metier": 20,
-    "entreprises_du_metier_en_tout": 60,
-    "fournisseurs_deja_retenus_par_acheteur": 43,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 29
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4502,14 +3528,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.431,
-    "marches_vus_acheteur": 3,
-    "taux_local_dep_metier": 0.54,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 12,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 3
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4534,14 +3553,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.395,
-    "marches_vus_acheteur": 4,
-    "taux_local_dep_metier": 0.204,
-    "marches_vus_dep_metier": 321,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 54,
-    "entreprises_du_metier_en_tout": 447,
-    "fournisseurs_deja_retenus_par_acheteur": 4,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 4
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4566,14 +3578,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.538,
-    "marches_vus_acheteur": 25,
-    "taux_local_dep_metier": 0.496,
-    "marches_vus_dep_metier": 240,
-    "taux_local_metier": 0.282,
-    "entreprises_locales_du_metier": 135,
-    "entreprises_du_metier_en_tout": 340,
-    "fournisseurs_deja_retenus_par_acheteur": 53,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 25
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4598,14 +3603,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.176,
-    "marches_vus_acheteur": 19,
-    "taux_local_dep_metier": 0.801,
-    "marches_vus_dep_metier": 544,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 737,
-    "entreprises_du_metier_en_tout": 1363,
-    "fournisseurs_deja_retenus_par_acheteur": 32,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 19
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4630,14 +3628,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.491,
-    "marches_vus_acheteur": 20,
-    "taux_local_dep_metier": 0.714,
-    "marches_vus_dep_metier": 29,
-    "taux_local_metier": 0.373,
-    "entreprises_locales_du_metier": 20,
-    "entreprises_du_metier_en_tout": 49,
-    "fournisseurs_deja_retenus_par_acheteur": 41,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 20
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4662,14 +3653,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.26,
-    "marches_vus_dep_metier": 360,
-    "taux_local_metier": 0.466,
-    "entreprises_locales_du_metier": 78,
-    "entreprises_du_metier_en_tout": 348,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4694,14 +3678,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.655,
-    "marches_vus_acheteur": 460,
-    "taux_local_dep_metier": 0.382,
-    "marches_vus_dep_metier": 211,
-    "taux_local_metier": 0.256,
-    "entreprises_locales_du_metier": 75,
-    "entreprises_du_metier_en_tout": 222,
-    "fournisseurs_deja_retenus_par_acheteur": 891,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 460
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4726,14 +3703,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.346,
-    "marches_vus_dep_metier": 269,
-    "taux_local_metier": 0.569,
-    "entreprises_locales_du_metier": 80,
-    "entreprises_du_metier_en_tout": 302,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4758,14 +3728,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.467,
-    "marches_vus_acheteur": 15,
-    "taux_local_dep_metier": 0.178,
-    "marches_vus_dep_metier": 363,
-    "taux_local_metier": 0.53,
-    "entreprises_locales_du_metier": 60,
-    "entreprises_du_metier_en_tout": 525,
-    "fournisseurs_deja_retenus_par_acheteur": 21,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 15
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4790,14 +3753,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.54,
-    "marches_vus_acheteur": 36,
-    "taux_local_dep_metier": 0.209,
-    "marches_vus_dep_metier": 73,
-    "taux_local_metier": 0.513,
-    "entreprises_locales_du_metier": 22,
-    "entreprises_du_metier_en_tout": 104,
-    "fournisseurs_deja_retenus_par_acheteur": 86,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 36
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4822,14 +3778,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.279,
-    "marches_vus_dep_metier": 556,
-    "taux_local_metier": 0.466,
-    "entreprises_locales_du_metier": 102,
-    "entreprises_du_metier_en_tout": 478,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4854,14 +3803,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.541,
-    "marches_vus_acheteur": 34,
-    "taux_local_dep_metier": 0.576,
-    "marches_vus_dep_metier": 508,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 304,
-    "entreprises_du_metier_en_tout": 604,
-    "fournisseurs_deja_retenus_par_acheteur": 78,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 34
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4886,14 +3828,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.482,
-    "marches_vus_acheteur": 6,
-    "taux_local_dep_metier": 0.285,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 11,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 6
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4918,14 +3853,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.522,
-    "marches_vus_acheteur": 3,
-    "taux_local_dep_metier": 0.337,
-    "marches_vus_dep_metier": 101,
-    "taux_local_metier": 0.425,
-    "entreprises_locales_du_metier": 53,
-    "entreprises_du_metier_en_tout": 132,
-    "fournisseurs_deja_retenus_par_acheteur": 4,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 3
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4950,14 +3878,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.416,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.542,
-    "marches_vus_dep_metier": 443,
-    "taux_local_metier": 0.382,
-    "entreprises_locales_du_metier": 296,
-    "entreprises_du_metier_en_tout": 718,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -4982,14 +3903,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.334,
-    "marches_vus_acheteur": 60,
-    "taux_local_dep_metier": 0.349,
-    "marches_vus_dep_metier": 114,
-    "taux_local_metier": 0.513,
-    "entreprises_locales_du_metier": 40,
-    "entreprises_du_metier_en_tout": 155,
-    "fournisseurs_deja_retenus_par_acheteur": 108,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 60
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5014,14 +3928,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.535,
-    "marches_vus_acheteur": 186,
-    "taux_local_dep_metier": 0.585,
-    "marches_vus_dep_metier": 658,
-    "taux_local_metier": 0.372,
-    "entreprises_locales_du_metier": 415,
-    "entreprises_du_metier_en_tout": 953,
-    "fournisseurs_deja_retenus_par_acheteur": 515,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 186
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5046,14 +3953,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.443,
-    "marches_vus_acheteur": 14,
-    "taux_local_dep_metier": 0.581,
-    "marches_vus_dep_metier": 66,
-    "taux_local_metier": 0.205,
-    "entreprises_locales_du_metier": 25,
-    "entreprises_du_metier_en_tout": 45,
-    "fournisseurs_deja_retenus_par_acheteur": 40,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 14
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5078,14 +3978,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.194,
-    "marches_vus_acheteur": 176,
-    "taux_local_dep_metier": 0.459,
-    "marches_vus_dep_metier": 695,
-    "taux_local_metier": 0.629,
-    "entreprises_locales_du_metier": 304,
-    "entreprises_du_metier_en_tout": 1229,
-    "fournisseurs_deja_retenus_par_acheteur": 331,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 176
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5110,14 +4003,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.416,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.32,
-    "marches_vus_dep_metier": 158,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 52,
-    "entreprises_du_metier_en_tout": 205,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5142,14 +4028,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.335,
-    "marches_vus_dep_metier": 158,
-    "taux_local_metier": 0.341,
-    "entreprises_locales_du_metier": 59,
-    "entreprises_du_metier_en_tout": 216,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5174,14 +4053,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.587,
-    "marches_vus_acheteur": 12,
-    "taux_local_dep_metier": 0.357,
-    "marches_vus_dep_metier": 252,
-    "taux_local_metier": 0.191,
-    "entreprises_locales_du_metier": 108,
-    "entreprises_du_metier_en_tout": 856,
-    "fournisseurs_deja_retenus_par_acheteur": 48,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 12
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5206,14 +4078,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.319,
-    "marches_vus_dep_metier": 4,
-    "taux_local_metier": 0.554,
-    "entreprises_locales_du_metier": 1,
-    "entreprises_du_metier_en_tout": 8,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5238,14 +4103,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.151,
-    "marches_vus_dep_metier": 100,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 7,
-    "entreprises_du_metier_en_tout": 101,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5270,14 +4128,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.527,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.18,
-    "marches_vus_dep_metier": 64,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 9,
-    "entreprises_du_metier_en_tout": 100,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5302,14 +4153,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.744,
-    "marches_vus_dep_metier": 50,
-    "taux_local_metier": 0.554,
-    "entreprises_locales_du_metier": 49,
-    "entreprises_du_metier_en_tout": 247,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5334,14 +4178,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.553,
-    "marches_vus_acheteur": 82,
-    "taux_local_dep_metier": 0.247,
-    "marches_vus_dep_metier": 146,
-    "taux_local_metier": 0.148,
-    "entreprises_locales_du_metier": 30,
-    "entreprises_du_metier_en_tout": 606,
-    "fournisseurs_deja_retenus_par_acheteur": 178,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 82
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5366,14 +4203,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.473,
-    "marches_vus_dep_metier": 237,
-    "taux_local_metier": 0.329,
-    "entreprises_locales_du_metier": 123,
-    "entreprises_du_metier_en_tout": 319,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5398,14 +4228,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.416,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.399,
-    "marches_vus_dep_metier": 14,
-    "taux_local_metier": 0.387,
-    "entreprises_locales_du_metier": 3,
-    "entreprises_du_metier_en_tout": 13,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5430,14 +4253,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.315,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5462,14 +4278,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.522,
-    "marches_vus_acheteur": 26,
-    "taux_local_dep_metier": 0.365,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 47,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 26
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5494,14 +4303,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.385,
-    "marches_vus_acheteur": 51,
-    "taux_local_dep_metier": 0.219,
-    "marches_vus_dep_metier": 95,
-    "taux_local_metier": 0.237,
-    "entreprises_locales_du_metier": 20,
-    "entreprises_du_metier_en_tout": 141,
-    "fournisseurs_deja_retenus_par_acheteur": 77,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 51
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5526,14 +4328,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.416,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.5,
-    "marches_vus_dep_metier": 145,
-    "taux_local_metier": 0.457,
-    "entreprises_locales_du_metier": 54,
-    "entreprises_du_metier_en_tout": 154,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5558,14 +4353,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.256,
-    "marches_vus_acheteur": 116,
-    "taux_local_dep_metier": 0.357,
-    "marches_vus_dep_metier": 252,
-    "taux_local_metier": 0.225,
-    "entreprises_locales_du_metier": 108,
-    "entreprises_du_metier_en_tout": 856,
-    "fournisseurs_deja_retenus_par_acheteur": 541,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 116
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5590,14 +4378,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.185,
-    "marches_vus_dep_metier": 42,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 8,
-    "entreprises_du_metier_en_tout": 51,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5622,14 +4403,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.684,
-    "marches_vus_acheteur": 186,
-    "taux_local_dep_metier": 0.339,
-    "marches_vus_dep_metier": 147,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 32,
-    "entreprises_du_metier_en_tout": 180,
-    "fournisseurs_deja_retenus_par_acheteur": 339,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 186
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5654,14 +4428,7 @@
    "verdict": "AUCUN AVIS",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.158,
-    "marches_vus_dep_metier": 1901,
-    "taux_local_metier": 0.722,
-    "entreprises_locales_du_metier": 206,
-    "entreprises_du_metier_en_tout": 2701,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5686,14 +4453,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.158,
-    "marches_vus_dep_metier": 1901,
-    "taux_local_metier": 0.629,
-    "entreprises_locales_du_metier": 206,
-    "entreprises_du_metier_en_tout": 2701,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5718,14 +4478,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.522,
-    "marches_vus_acheteur": 3,
-    "taux_local_dep_metier": 0.429,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 26,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 3
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5750,14 +4503,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.219,
-    "marches_vus_dep_metier": 165,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 15,
-    "entreprises_du_metier_en_tout": 155,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5782,14 +4528,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.63,
-    "marches_vus_acheteur": 44,
-    "taux_local_dep_metier": 0.242,
-    "marches_vus_dep_metier": 197,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 30,
-    "entreprises_du_metier_en_tout": 190,
-    "fournisseurs_deja_retenus_par_acheteur": 64,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 44
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5814,14 +4553,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.235,
-    "marches_vus_acheteur": 199,
-    "taux_local_dep_metier": 0.079,
-    "marches_vus_dep_metier": 89,
-    "taux_local_metier": 0.191,
-    "entreprises_locales_du_metier": 8,
-    "entreprises_du_metier_en_tout": 452,
-    "fournisseurs_deja_retenus_par_acheteur": 800,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 199
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5846,14 +4578,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.404,
-    "marches_vus_dep_metier": 271,
-    "taux_local_metier": 0.569,
-    "entreprises_locales_du_metier": 77,
-    "entreprises_du_metier_en_tout": 253,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5878,14 +4603,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.478,
-    "marches_vus_acheteur": 4,
-    "taux_local_dep_metier": 0.266,
-    "marches_vus_dep_metier": 39,
-    "taux_local_metier": 0.494,
-    "entreprises_locales_du_metier": 13,
-    "entreprises_du_metier_en_tout": 75,
-    "fournisseurs_deja_retenus_par_acheteur": 4,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 4
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5910,14 +4628,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.481,
-    "marches_vus_acheteur": 33,
-    "taux_local_dep_metier": 0.259,
-    "marches_vus_dep_metier": 98,
-    "taux_local_metier": 0.403,
-    "entreprises_locales_du_metier": 17,
-    "entreprises_du_metier_en_tout": 107,
-    "fournisseurs_deja_retenus_par_acheteur": 47,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 33
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5942,14 +4653,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.537,
-    "marches_vus_acheteur": 79,
-    "taux_local_dep_metier": 0.162,
-    "marches_vus_dep_metier": 174,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 22,
-    "entreprises_du_metier_en_tout": 193,
-    "fournisseurs_deja_retenus_par_acheteur": 208,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 79
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -5974,14 +4678,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.474,
-    "marches_vus_acheteur": 2,
-    "taux_local_dep_metier": 0.412,
-    "marches_vus_dep_metier": 251,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 123,
-    "entreprises_du_metier_en_tout": 338,
-    "fournisseurs_deja_retenus_par_acheteur": 2,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 2
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6006,14 +4703,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.101,
-    "marches_vus_dep_metier": 901,
-    "taux_local_metier": 0.446,
-    "entreprises_locales_du_metier": 81,
-    "entreprises_du_metier_en_tout": 903,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6038,14 +4728,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.29,
-    "marches_vus_dep_metier": 108,
-    "taux_local_metier": 0.403,
-    "entreprises_locales_du_metier": 26,
-    "entreprises_du_metier_en_tout": 140,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6070,14 +4753,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.416,
-    "marches_vus_acheteur": 1,
-    "taux_local_dep_metier": 0.219,
-    "marches_vus_dep_metier": 165,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 15,
-    "entreprises_du_metier_en_tout": 155,
-    "fournisseurs_deja_retenus_par_acheteur": 1,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 1
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6102,14 +4778,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.397,
-    "marches_vus_acheteur": 14,
-    "taux_local_dep_metier": 0.346,
-    "marches_vus_dep_metier": 3,
-    "taux_local_metier": 0.271,
-    "entreprises_locales_du_metier": 1,
-    "entreprises_du_metier_en_tout": 16,
-    "fournisseurs_deja_retenus_par_acheteur": 16,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 14
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6134,14 +4803,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.38,
-    "marches_vus_acheteur": 15,
-    "taux_local_dep_metier": 0.3,
-    "marches_vus_dep_metier": 36,
-    "taux_local_metier": 0.329,
-    "entreprises_locales_du_metier": 16,
-    "entreprises_du_metier_en_tout": 109,
-    "fournisseurs_deja_retenus_par_acheteur": 29,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 15
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6166,14 +4828,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.47,
-    "marches_vus_acheteur": 102,
-    "taux_local_dep_metier": 0.238,
-    "marches_vus_dep_metier": 111,
-    "taux_local_metier": 0.233,
-    "entreprises_locales_du_metier": 20,
-    "entreprises_du_metier_en_tout": 119,
-    "fournisseurs_deja_retenus_par_acheteur": 167,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 102
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6198,14 +4853,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.43,
-    "marches_vus_acheteur": 10,
-    "taux_local_dep_metier": 0.234,
-    "marches_vus_dep_metier": 23,
-    "taux_local_metier": 0.348,
-    "entreprises_locales_du_metier": 3,
-    "entreprises_du_metier_en_tout": 26,
-    "fournisseurs_deja_retenus_par_acheteur": 32,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 10
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6230,14 +4878,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.687,
-    "marches_vus_acheteur": 12,
-    "taux_local_dep_metier": 0.139,
-    "marches_vus_dep_metier": 83,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 7,
-    "entreprises_du_metier_en_tout": 118,
-    "fournisseurs_deja_retenus_par_acheteur": 69,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 12
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6262,14 +4903,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.474,
-    "marches_vus_acheteur": 2,
-    "taux_local_dep_metier": 0.269,
-    "marches_vus_dep_metier": 14,
-    "taux_local_metier": 0.112,
-    "entreprises_locales_du_metier": 2,
-    "entreprises_du_metier_en_tout": 15,
-    "fournisseurs_deja_retenus_par_acheteur": 14,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 2
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6294,14 +4928,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.595,
-    "marches_vus_acheteur": 5,
-    "taux_local_dep_metier": 0.267,
-    "marches_vus_dep_metier": 10,
-    "taux_local_metier": 0.466,
-    "entreprises_locales_du_metier": 2,
-    "entreprises_du_metier_en_tout": 9,
-    "fournisseurs_deja_retenus_par_acheteur": 9,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 5
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6326,14 +4953,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.312,
-    "marches_vus_acheteur": 4,
-    "taux_local_dep_metier": 0.326,
-    "marches_vus_dep_metier": 125,
-    "taux_local_metier": 0.323,
-    "entreprises_locales_du_metier": 32,
-    "entreprises_du_metier_en_tout": 132,
-    "fournisseurs_deja_retenus_par_acheteur": 3,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 4
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6358,14 +4978,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.213,
-    "marches_vus_dep_metier": 14,
-    "taux_local_metier": 0.348,
-    "entreprises_locales_du_metier": 1,
-    "entreprises_du_metier_en_tout": 21,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6390,14 +5003,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.459,
-    "marches_vus_dep_metier": 108,
-    "taux_local_metier": 0.416,
-    "entreprises_locales_du_metier": 48,
-    "entreprises_du_metier_en_tout": 160,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6422,14 +5028,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.54,
-    "marches_vus_acheteur": 36,
-    "taux_local_dep_metier": 0.136,
-    "marches_vus_dep_metier": 21,
-    "taux_local_metier": 0.233,
-    "entreprises_locales_du_metier": 1,
-    "entreprises_du_metier_en_tout": 29,
-    "fournisseurs_deja_retenus_par_acheteur": 86,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 36
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6454,14 +5053,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.518,
-    "marches_vus_acheteur": 88,
-    "taux_local_dep_metier": 0.247,
-    "marches_vus_dep_metier": 152,
-    "taux_local_metier": 0.225,
-    "entreprises_locales_du_metier": 34,
-    "entreprises_du_metier_en_tout": 714,
-    "fournisseurs_deja_retenus_par_acheteur": 177,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 88
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6486,14 +5078,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.129,
-    "marches_vus_dep_metier": 74,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 6,
-    "entreprises_du_metier_en_tout": 111,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6518,14 +5103,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.256,
-    "marches_vus_dep_metier": 53,
-    "taux_local_metier": 0.237,
-    "entreprises_locales_du_metier": 10,
-    "entreprises_du_metier_en_tout": 63,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6550,14 +5128,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.441,
-    "marches_vus_acheteur": 291,
-    "taux_local_dep_metier": 0.347,
-    "marches_vus_dep_metier": 29,
-    "taux_local_metier": 0.374,
-    "entreprises_locales_du_metier": 12,
-    "entreprises_du_metier_en_tout": 77,
-    "fournisseurs_deja_retenus_par_acheteur": 785,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 291
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6582,14 +5153,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.492,
-    "marches_vus_acheteur": 26,
-    "taux_local_dep_metier": 0.259,
-    "marches_vus_dep_metier": 178,
-    "taux_local_metier": 0.148,
-    "entreprises_locales_du_metier": 48,
-    "entreprises_du_metier_en_tout": 595,
-    "fournisseurs_deja_retenus_par_acheteur": 55,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 26
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6614,14 +5178,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.204,
-    "marches_vus_acheteur": 914,
-    "taux_local_dep_metier": 0.101,
-    "marches_vus_dep_metier": 901,
-    "taux_local_metier": 0.366,
-    "entreprises_locales_du_metier": 81,
-    "entreprises_du_metier_en_tout": 903,
-    "fournisseurs_deja_retenus_par_acheteur": 1690,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 914
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6646,14 +5203,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.204,
-    "marches_vus_acheteur": 30,
-    "taux_local_dep_metier": 0.091,
-    "marches_vus_dep_metier": 113,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 8,
-    "entreprises_du_metier_en_tout": 157,
-    "fournisseurs_deja_retenus_par_acheteur": 39,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 30
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6678,14 +5228,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.297,
-    "marches_vus_acheteur": 119,
-    "taux_local_dep_metier": 0.153,
-    "marches_vus_dep_metier": 41,
-    "taux_local_metier": 0.198,
-    "entreprises_locales_du_metier": 6,
-    "entreprises_du_metier_en_tout": 50,
-    "fournisseurs_deja_retenus_par_acheteur": 181,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 119
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6710,14 +5253,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.474,
-    "marches_vus_acheteur": 2,
-    "taux_local_dep_metier": 0.095,
-    "marches_vus_dep_metier": 86,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 8,
-    "entreprises_du_metier_en_tout": 148,
-    "fournisseurs_deja_retenus_par_acheteur": 18,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 2
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6742,14 +5278,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.151,
-    "marches_vus_dep_metier": 56,
-    "taux_local_metier": 0.323,
-    "entreprises_locales_du_metier": 5,
-    "entreprises_du_metier_en_tout": 57,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6774,14 +5303,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.287,
-    "marches_vus_acheteur": 12,
-    "taux_local_dep_metier": 0.134,
-    "marches_vus_dep_metier": 111,
-    "taux_local_metier": 0.391,
-    "entreprises_locales_du_metier": 15,
-    "entreprises_du_metier_en_tout": 121,
-    "fournisseurs_deja_retenus_par_acheteur": 10,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 12
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6806,14 +5328,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.264,
-    "marches_vus_acheteur": 461,
-    "taux_local_dep_metier": 0.224,
-    "marches_vus_dep_metier": 159,
-    "taux_local_metier": 0.374,
-    "entreprises_locales_du_metier": 31,
-    "entreprises_du_metier_en_tout": 203,
-    "fournisseurs_deja_retenus_par_acheteur": 574,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 461
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6838,14 +5353,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.529,
-    "marches_vus_dep_metier": 145,
-    "taux_local_metier": 0.359,
-    "entreprises_locales_du_metier": 69,
-    "entreprises_du_metier_en_tout": 211,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6870,14 +5378,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.224,
-    "marches_vus_acheteur": 40,
-    "taux_local_dep_metier": 0.386,
-    "marches_vus_dep_metier": 22,
-    "taux_local_metier": 0.269,
-    "entreprises_locales_du_metier": 8,
-    "entreprises_du_metier_en_tout": 32,
-    "fournisseurs_deja_retenus_par_acheteur": 69,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 40
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6902,14 +5403,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.299,
-    "marches_vus_acheteur": 38,
-    "taux_local_dep_metier": 0.224,
-    "marches_vus_dep_metier": 159,
-    "taux_local_metier": 0.374,
-    "entreprises_locales_du_metier": 31,
-    "entreprises_du_metier_en_tout": 203,
-    "fournisseurs_deja_retenus_par_acheteur": 86,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 38
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6934,14 +5428,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.265,
-    "marches_vus_dep_metier": 29,
-    "taux_local_metier": 0.185,
-    "entreprises_locales_du_metier": 21,
-    "entreprises_du_metier_en_tout": 61,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6966,14 +5453,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.446,
-    "marches_vus_acheteur": 135,
-    "taux_local_dep_metier": 0.108,
-    "marches_vus_dep_metier": 26,
-    "taux_local_metier": 0.232,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 27,
-    "fournisseurs_deja_retenus_par_acheteur": 285,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 135
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -6998,14 +5478,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.084,
-    "marches_vus_dep_metier": 83,
-    "taux_local_metier": 0.064,
-    "entreprises_locales_du_metier": 3,
-    "entreprises_du_metier_en_tout": 96,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -7030,14 +5503,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.468,
-    "marches_vus_acheteur": 0,
-    "taux_local_dep_metier": 0.126,
-    "marches_vus_dep_metier": 15,
-    "taux_local_metier": 0.213,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 30,
-    "fournisseurs_deja_retenus_par_acheteur": 0,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 0
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -7062,14 +5528,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.264,
-    "marches_vus_acheteur": 63,
-    "taux_local_dep_metier": 0.211,
-    "marches_vus_dep_metier": 14,
-    "taux_local_metier": 0.232,
-    "entreprises_locales_du_metier": 1,
-    "entreprises_du_metier_en_tout": 15,
-    "fournisseurs_deja_retenus_par_acheteur": 271,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 63
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -7094,14 +5553,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.296,
-    "marches_vus_acheteur": 8,
-    "taux_local_dep_metier": 0.116,
-    "marches_vus_dep_metier": 25,
-    "taux_local_metier": 0.233,
-    "entreprises_locales_du_metier": 1,
-    "entreprises_du_metier_en_tout": 34,
-    "fournisseurs_deja_retenus_par_acheteur": 9,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 8
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -7126,14 +5578,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.197,
-    "marches_vus_acheteur": 11,
-    "taux_local_dep_metier": 0.002,
-    "marches_vus_dep_metier": 6,
-    "taux_local_metier": 0.443,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 6,
-    "fournisseurs_deja_retenus_par_acheteur": 26,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 11
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -7158,14 +5603,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.312,
-    "marches_vus_acheteur": 4,
-    "taux_local_dep_metier": 0.003,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 6,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 4
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -7190,14 +5628,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.11,
-    "marches_vus_acheteur": 26,
-    "taux_local_dep_metier": 0.001,
-    "marches_vus_dep_metier": 17,
-    "taux_local_metier": 0.415,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 22,
-    "fournisseurs_deja_retenus_par_acheteur": 26,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 26
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -7222,14 +5653,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.312,
-    "marches_vus_acheteur": 4,
-    "taux_local_dep_metier": 0.003,
-    "marches_vus_dep_metier": 0,
-    "taux_local_metier": 0.468,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 0,
-    "fournisseurs_deja_retenus_par_acheteur": 6,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 4
    },
    "resultat_reel": null,
    "date_resultat": null,
@@ -7254,14 +5678,7 @@
    "verdict": "NON LOCAL",
    "pourquoi": {
     "taux_local_acheteur": 0.11,
-    "marches_vus_acheteur": 26,
-    "taux_local_dep_metier": 0.003,
-    "marches_vus_dep_metier": 4,
-    "taux_local_metier": 0.273,
-    "entreprises_locales_du_metier": 0,
-    "entreprises_du_metier_en_tout": 4,
-    "fournisseurs_deja_retenus_par_acheteur": 26,
-    "taux_local_national": 0.468
+    "marches_vus_acheteur": 26
    },
    "resultat_reel": null,
    "date_resultat": null,

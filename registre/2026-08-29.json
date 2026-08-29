@@ -1,0 +1,68 @@
+{
+ "date_prediction": "2026-08-29",
+ "ecrit_le": "2026-08-29T11:11:52",
+ "modele_version": "v7-2026-08-23-220347",
+ "corpus_arrete_au": "2026-08-23",
+ "corpus_taille": 220347,
+ "cible": "le marche sera-t-il attribue a une entreprise du departement de l'acheteur",
+ "seuils": {
+  "local": 0.8,
+  "non_local": 0.2
+ },
+ "protocole": "prediction ecrite le jour de la parution de l'avis de marche, avant toute publication du resultat. resultat_reel reste null jusqu'a la parution de l'avis d'attribution.",
+ "n_avis": 1,
+ "n_local": 0,
+ "n_non_local": 0,
+ "n_sans_avis": 1,
+ "questions_annexes": [
+  {
+   "nom": "captation",
+   "modele_version": "captation-v1-2026-08-23-220347",
+   "cible": "au moins un titulaire avait deja remporte un marche de cet acheteur avant la date de la consultation",
+   "seuils": {
+    "haut": 0.9,
+    "bas": 0.1
+   },
+   "n_haut": 0,
+   "n_bas": 1
+  },
+  {
+   "nom": "peu_offres",
+   "modele_version": "concurrents-v1-2026-08-23-168734",
+   "cible": "le marche recevra-t-il deux offres ou moins",
+   "seuils": {
+    "haut": 0.9,
+    "bas": 0.1
+   },
+   "n_haut": 0,
+   "n_bas": 0
+  }
+ ],
+ "avis": [
+  {
+   "idweb": "26-84298",
+   "parution": "2026-08-29",
+   "acheteur": "Ville de Roubaix",
+   "dep_acheteur": "59",
+   "objet": "Realisations De Diagnostics Immobiliers : Amiante, Performance Energetique, Constat De Risque D'Exposition Au Plomb, Risques Naturels Et Technologiques Et Etat ",
+   "cpv": "90711100",
+   "type_marche": "SERVICES",
+   "procedure": "Procédure Ouverte",
+   "montant_estime": null,
+   "p_local": 0.2476,
+   "verdict": "AUCUN AVIS",
+   "pourquoi": {
+    "taux_local_acheteur": 0.646,
+    "marches_vus_acheteur": 21
+   },
+   "resultat_reel": null,
+   "date_resultat": null,
+   "p_captation": 0.0579,
+   "verdict_captation": "PLACE OUVERTE",
+   "resultat_reel_captation": null,
+   "p_peu_offres": 0.2456,
+   "verdict_peu_offres": "AUCUN AVIS",
+   "resultat_reel_peu_offres": null
+  }
+ ]
+}

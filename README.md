@@ -13,8 +13,12 @@ La page lisible : **https://marche.ducens.io**
 
 - `registre/AAAA-MM-JJ.json` : un fichier par journee de parution. Chaque avis y porte son
   identifiant BOAMP, son acheteur, son objet, son code CPV, la probabilite estimee, le
-  verdict s'il y en a un, et un bloc `pourquoi` qui publie les comptages sur lesquels le
-  modele s'appuie.
+  verdict s'il y en a un, et un bloc `pourquoi` qui publie **le passe de l'acheteur
+  lui-meme** : la part de ses marches deja partis dans son propre departement, et le
+  nombre de marches sur lequel cette part est calculee. Ce chiffre se recalcule depuis
+  l'open data par n'importe qui, et il est la pour une raison precise : c'est le seul
+  moyen de voir, ligne par ligne, quand le modele annonce l'inverse de ce que l'histoire
+  de cet acheteur laissait attendre. Ce sont ces lignes-la qui jugeront la methode.
 - `index.html` : la page, statique, sans JavaScript, regeneree a chaque mise a jour.
 
 ## Les trois questions posees a chaque avis
@@ -32,15 +36,18 @@ probabilite et rien d'autre : **le silence n'est pas une prediction et n'entre d
 score.** La probabilite publiee sur la page est toujours celle de la phrase annoncee, pas
 celle de l'evenement contraire.
 
-## Comment les phrases sont comptees
+## Ce qui a ete retire le 29 aout 2026, et ce qui ne l'a pas ete
 
-Tout le monde ne compte pas pareil, alors la regle est ecrite ici. **Une phrase ne compte
-que si elle gagne au moins vingt points sur ce qu'on obtiendrait sans modele** : une
-annonce juste mais previsible est ecartee du decompte, meme quand elle est juste.
+Les treize premiers jours de ce depot publiaient, pour chaque avis, neuf variables
+calculees par le modele. Elles en sont sorties le 29/08/2026, avec l'architecture du
+modele et le bareme de comptage : mises cote a cote avec la probabilite, sur des milliers
+d'avis, elles permettaient de reconstituer le modele sans corpus et sans travail.
 
-Sur cette regle, **24,2 % du flux recoit une phrase qu'un lecteur n'aurait pas pu
-deviner**, dont 19,8 % pour la seule question de la localisation : **juste 94,4 % du temps
-quand le taux de base est de 46 %**. Mesure du 26 aout 2026 sur 18 730 marches de test.
+**Aucune prediction, aucune probabilite, aucun verdict, aucune date n'a ete modifie.**
+L'historique git de ce depot conserve les octets d'origine : le diff est public et
+n'importe qui peut verifier que seules des variables explicatives ont ete retirees. C'est
+volontairement cette forme-la et pas une reecriture d'historique, qui aurait detruit la
+seule chose que ce depot apporte.
 
 ## Ce qui n'est pas publie, et pourquoi
 
@@ -53,9 +60,9 @@ d'achat, jamais rendus comme un jugement sur une collectivite nommee.
 
 Les premieres resolutions arrivent quand les avis d'attribution des marches de 2026
 paraissent, a partir de la fin 2026 et surtout en 2027. Le delai median entre une
-consultation et son attribution est de 136 jours. **Un bilan public sera publie en juillet
-2027** : predits, resolus, non resolvables, et le gain sur le taux de base pour chaque
-phrase, quel que soit le resultat.
+consultation et son attribution est de 136 jours. **Un bilan public sera publie le
+31 aout 2027** : predits, resolus, non resolvables, et le gain sur le taux de base pour
+chaque phrase, quel que soit le resultat.
 
 ## Donnees
 

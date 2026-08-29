@@ -1,7 +1,6 @@
 {
  "date_prediction": "2026-08-24",
  "ecrit_le": "2026-08-24T16:58:56",
- "modele": "apprendre5 / melange 0.40 regression + 0.60 arbres",
  "corpus_arrete_au": "2026-08-23",
  "corpus_taille": 33061,
  "cible": "le marche sera-t-il attribue a une entreprise du departement de l'acheteur",
