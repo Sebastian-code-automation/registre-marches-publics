@@ -702,15 +702,26 @@ ORDINATEURS - ÉQUIPEMENT - PETIT MATÉRIEL</span><span class="meta">Mairie de l
   const label = select => select.options[select.selectedIndex].text;
 
   function prepareRequest() {
+    const expandDepartment = value => ({'2A':['2A','20A'],'2B':['2B','20B']}[value] || [value]);
+    const allowedDepartments = zone.value ? expandDepartment(zone.value)
+      : implantation.value ? Array.from(zone.options).map(option => option.value)
+        .filter(value => value && value !== implantation.value).flatMap(expandDepartment) : [];
+    const contradictory = zone.value && zone.value === implantation.value;
+    const firstLine = contradictory
+      ? 'Bonjour, pouvez-vous m’aider à préciser ma zone pour une sélection de marchés de travaux ?'
+      : 'Oui, je souhaite recevoir une sélection de marchés de travaux correspondant à ces critères.';
     const lines = [
-      'Oui, je souhaite recevoir une sélection de marchés de travaux correspondant à ces critères.',
+      firstLine,
       '',
       'Entreprise : [à compléter]',
       'Votre rôle : [à compléter]',
       'Activité : ' + label(metier),
       'Préfixes CPV demandés : ' + metier.value,
-      'Départements visés : ' + (zone.value ? ({'2A':'2A, 20A','2B':'2B, 20B'}[zone.value] || zone.value) + ' - ' + label(zone) : 'France entière'),
-      'Département de mon entreprise : ' + (implantation.value || 'non précisé'),
+      'Départements visés : ' + (zone.value ? label(zone) : 'France entière')
+        + (implantation.value ? ', sauf mon département d’implantation ' + implantation.value : ''),
+      'Codes départements à retenir pour l’envoi : ' + (contradictory ? 'critères à clarifier avant tout envoi'
+        : allowedDepartments.length ? allowedDepartments.join(', ') : 'tous'),
+      'Implantation de mon entreprise (information de contexte) : ' + (implantation.value || 'non précisé'),
       '',
       'Un marché récemment étudié chez nous (facultatif) :',
       '',
